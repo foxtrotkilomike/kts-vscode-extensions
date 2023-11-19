@@ -1,0 +1,40 @@
+{
+  "name": "kts-frontend-extension-pack",
+  "displayName": "KTS frontend extension pack",
+  "description": "A pack of VS Code extensions from KTS frontend team",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaron-bond.better-comments", 
+    "alefragnani.project-manager", 
+    "ChakrounAnas.turbo-console-log", 
+    "christian-kohler.path-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "EditorConfig.EditorConfig", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.auto-rename-tag", 
+    "Huuums.vscode-fast-folder-structure", 
+    "mhutchie.git-graph", 
+    "mikestead.dotenv", 
+    "mrmlnc.vscode-scss", 
+    "mskelton.npm-outdated", 
+    "msyesyan.json-sorter", 
+    "patbenatar.advanced-new-file", 
+    "PKief.material-icon-theme", 
+    "SimonSiefke.svg-preview", 
+    "SonarSource.sonarlint-vscode", 
+    "streetsidesoftware.code-spell-checker", 
+    "streetsidesoftware.code-spell-checker-russian", 
+    "stylelint.vscode-stylelint", 
+    "svetlanakost.typograf", 
+    "usernamehw.errorlens", 
+    "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one"
+  ]
+}
