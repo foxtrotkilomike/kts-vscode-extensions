@@ -1,5 +1,11 @@
 # KTS frontend VS Code extension pack
 
+## How to install
+
+1. Go to `/packages` and download `kts-frontend-extension-pack-0.0.1.vsix`.
+2. In VS Code enter the command `Extensions: Install from VSIX` in command palette (`Cmd + Shift + P` to open it).
+3. Choose the file you've just downloaded.
+
 ## List of included extensions
 
 - [Better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
